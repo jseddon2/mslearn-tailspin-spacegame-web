@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/HybridIntelligence-Internal/James%20Seddon/_apis/build/status%2Fjseddon2.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/HybridIntelligence-Internal/James%20Seddon/_build/latest?definitionId=106&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
